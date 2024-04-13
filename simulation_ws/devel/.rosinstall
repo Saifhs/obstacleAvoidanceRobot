@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/saif/obstacleAvoidanceRobot/simulation_ws/devel/setup.sh
